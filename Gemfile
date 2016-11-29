@@ -31,6 +31,7 @@ gem 'masonry-rails', '~> 0.2.1'
 gem 'therubyracer'
 gem 'execjs'
 gem 'therubyrhino'
+gem 'acts_as_votable','~>0.10.0'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
